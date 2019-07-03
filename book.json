@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "anchor-navigation",
+        "disqus",
+        "mermaid",
+        "mathjax",
+        "mermaid-2",
+        "emphasize"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "transferptt"
+        },
+        "mathjax": {
+            "forceSVG": false
+        }
+    }
+}

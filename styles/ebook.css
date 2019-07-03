@@ -1,0 +1,10 @@
+/* CSS for ebook */
+strong {
+    color: brown;
+}  
+/* 粗體字顯示為咖啡色 */ 
+
+em {
+    color: brown;
+}  
+/* 強調文字傾斜並顯示成咖啡色 */
